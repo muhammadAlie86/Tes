@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tes</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_your_username">Enter your username</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="success">succes</string>
+</resources>
